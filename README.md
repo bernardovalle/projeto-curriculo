@@ -1,7 +1,7 @@
 <h1 align="center"> Exercicio currículo </h1>
 
 <p align="center">
-Fiz uma pagina web para expor meu curriculo. Desenvolvido a pedido de um exercicio do curso de Curso de programação WEB da Udemy ministrado pelo professor Daniel Tapias Morales <br/>
+Fiz uma pagina web para expor meu currículo. Desenvolvido a pedido de um exercicio do curso de programação WEB da Udemy ministrado pelo professor Daniel Tapias Morales <br/>
 </p>
 
     
