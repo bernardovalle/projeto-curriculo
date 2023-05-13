@@ -35,7 +35,6 @@ ul li{
 text-align:right;
 }
 .menu li{
-    /*usado para tirar o bullet da lista*/
     list-style: none;
     background-color: yellow;
     display: inline-block;
